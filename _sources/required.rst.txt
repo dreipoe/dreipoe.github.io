@@ -3,7 +3,10 @@
 
 * Операционная система: Microsoft Windows 7 SP1, ReactOS 0.4.7
 * Процессор Intel Pentium 4
-* 1 ГБ ОЗУ (2 ГБ для 64-разраядных систем)
+* Оперативная память:
+	* 192 МБ для ReactOS
+	* 1 ГБ для Windows x86
+	* 2 ГБ для Windows x64
 * Microsoft SQL Server 2012
 * Клавиатура, мышь
 
